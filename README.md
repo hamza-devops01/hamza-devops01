@@ -11,14 +11,16 @@
 <span>&nbsp;&nbsp;&nbsp;</span>
 # 💫 About Me
 
-🚀 Passionate DevOps Engineer with hands-on experience designing, deploying, and managing cloud infrastructure.
+🚀 DevOps Engineer with hands-on experience designing, deploying, and managing cloud infrastructure.
 
-I enjoy automating workflows, optimizing deployments, and building reliable cloud solutions using AWS, Azure, Linux, Docker, Git, GitHub, and Shell Scripting.
+- I enjoy automating workflows, optimizing deployments, and building reliable cloud solutions using AWS, Azure, Linux, Docker, Jenkins, GitLab, Git, GitHub, and Shell Scripting.
+
 - 🔭 Currently working on **AWS**, **Microsoft Azure**, and **Cloud Infrastructure**
-- 🌱 Currently learning **DevOps tools**, **CI/CD**, **Kubernetes**, and **Infrastructure Automation**
-- 🐧 Passionate about **Linux Administration**, **Shell Scripting**, and **Cloud Operations**
+- 🌱 Currently learning advanced DevOps tools, **CI/CD pipelines**, **Kubernetes**, and **Infrastructure Automation**
+- 🐧 Passionate about **Linux Administration**, **Shell Scripting**, and Cloud Operations
 - 🐳 Building and deploying applications using **Docker** and modern DevOps practices
-- 🌿 Experienced with **Git** and **GitHub** for version control and collaboration
+- 🔧 Automating CI/CD pipelines with **Jenkins** and **GitLab CI/CD**
+- 🦊 Experienced with **Git**, **GitHub**, and **GitLab** for version control and collaboration
 - ⚡ Fun fact: I enjoy automating repetitive tasks and continuously learning new technologies.
 
 ---
