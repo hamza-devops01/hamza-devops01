@@ -54,6 +54,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-devops01&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
 <span>&nbsp;&nbsp;&nbsp;</span>
+
 ## 📫 Connect
 
 <p align="center">
