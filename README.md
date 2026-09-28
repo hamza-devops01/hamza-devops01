@@ -29,7 +29,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=aws"  />
   <span>&nbsp;&nbsp;</span>
-    <img src="https://skillicons.dev/icons?i=azure"  />
+  <img src="https://skillicons.dev/icons?i=azure"  />
   <span>&nbsp;&nbsp;&nbsp;</span>
   <img src="https://skillicons.dev/icons?i=linux" />
   <span>&nbsp;&nbsp;&nbsp;</span>
@@ -37,20 +37,22 @@
   <span>&nbsp;&nbsp;&nbsp;</span>
   <img src="https://skillicons.dev/icons?i=git" />
   <span>&nbsp;&nbsp;&nbsp;</span>
-   <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" />
   <span>&nbsp;&nbsp;&nbsp;</span>
-   <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://skillicons.dev/icons?i=jenkins" />
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://skillicons.dev/icons?i=gitlab" />
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://skillicons.dev/icons?i=githubactions" />
 </p>
-
----
 <span>&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;</span>
 
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-devops01&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
-
----
 <span>&nbsp;&nbsp;&nbsp;</span>
 ## 📫 Connect
 
